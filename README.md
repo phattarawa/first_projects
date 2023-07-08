@@ -1,4 +1,4 @@
 # first_projects
 first_projects phattarawan
 first_projects saruta
-first_prijects Nur-ilmee
+first_projects Nur-ilmee
